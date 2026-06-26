@@ -1,4 +1,4 @@
-module github.com/trtuandat98/searcher
+module github.com/trtuandat98/go-holymass-searcher
 
 go 1.26
 
