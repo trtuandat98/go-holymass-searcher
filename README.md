@@ -14,7 +14,7 @@ You choose:
 ## Install
 
 ```sh
-go get github.com/trtuandat98/searcher
+go get github.com/trtuandat98/go-holymass-searcher
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/trtuandat98/searcher"
+	"github.com/trtuandat98/go-holymass-searcher"
 	_ "modernc.org/sqlite" // any database/sql driver
 )
 
